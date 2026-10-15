@@ -1,0 +1,21 @@
+# Môi trường ảo (tương đương node_modules)
+.venv/
+env/
+venv/
+ENV/
+
+# Bytecode và cache của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache của pytest
+.pytest_cache/
+
+# Tệp hệ thống / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Bỏ comment dòng dưới nếu không muốn đẩy thư mục kết quả lên:
+# articles_md/
